@@ -71,6 +71,7 @@ body {
   height: 60px;
   background: #330748;
   cursor: pointer;
+  transition: .3s;
 }
 .toggle.active {
   background: #ea1d63;
